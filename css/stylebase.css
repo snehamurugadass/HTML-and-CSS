@@ -1,0 +1,39 @@
+body{
+    /* background-image: url('/images/rose'); */
+    background-size: cover;
+}
+#image_4{
+    width: 50%;
+    height: auto;
+}
+#paragraph{
+    background-color: bisque;
+}
+#size{
+    size: 0cap;
+}
+.grp1{
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px dotted yellowgreen;
+    
+}
+.fruits{
+    list-style-type: lower-alpha;
+}
+.table{
+border: 2px solid black;
+border-collapse: collapse;
+margin: 10% 60% 10% 20%;
+}
+.table tr{
+    border-bottom:2px solid yellow;
+}
+.table td{
+    border-right: 3px solid red;
+    padding: 12px 15px 12px 15px;
+}
+
+
+    
+
+    
